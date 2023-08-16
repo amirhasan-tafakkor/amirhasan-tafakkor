@@ -21,3 +21,17 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/react.png" width="45px" height="45px" alt="React" /></a>
 </p>
 
+
+### Social
+
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/instagram.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/github.svg" width="32" height="32" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/326df429fa60b323e697a023715766629ad4047d/linkedin.svg" width="32" height="32" /></a>
+
+
+
+<br />
+
+⭐️ From [amirhasan ❤️](https://github.com/amirhasan-tafakkor/)
+
