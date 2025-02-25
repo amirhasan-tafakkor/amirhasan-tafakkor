@@ -4,7 +4,7 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; I am learning React js
+- 🤔 &nbsp; I am learning Next js
 - 🎓 &nbsp; I am a computer student
 - 💼 &nbsp; Working as a FrontEnd developer
 - ✍️ &nbsp; Coding Are My Hobby :))
