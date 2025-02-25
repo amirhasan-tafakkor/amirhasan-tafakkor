@@ -19,7 +19,7 @@
           <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/sass.png" width="45px" height="45px" alt="sass" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/js.png" width="45px" height="45px" alt="Javascript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/react.png" width="45px" height="45px" alt="React" /></a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/typescript.png" width="45px" height="45px" alt="React" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/amirhasan-tafakkor/amirhasan-tafakkor/main/typescript.svg" width="45px" height="45px" alt="React" /></a>
 </p>
 
 
